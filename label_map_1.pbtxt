@@ -1,0 +1,12 @@
+{
+  "labels":[
+    "id",
+    "name",
+    "dob",
+    "sex",
+    "nati",
+    "pla",
+    "res",
+    "date"
+  ]
+}
